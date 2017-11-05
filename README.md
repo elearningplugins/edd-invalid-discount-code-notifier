@@ -1,0 +1,1 @@
+# edd-invalid-discount-code-notifier
