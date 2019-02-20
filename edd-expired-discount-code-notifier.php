@@ -2,9 +2,9 @@
 /*
 Plugin Name: Easy Digital Downloads - Expired Discount Code Notifier
 Description: Notifies the store owner via email when a customer attempts to make a purchase with an expired discount code.
-Plugin URI: https://www.elearningfreak.com
+Plugin URI: https://wisdomplugin.com
 Author: Brian Batt
-Author URI: https://www.elearningfreak.com
+Author URI: https://wisdomplugin.com
 Version: 1.1
 
 */
