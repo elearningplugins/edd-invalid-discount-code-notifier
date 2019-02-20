@@ -13,7 +13,7 @@ Notifies the store owner via email when a customer attempts to make a purchase w
 
 == Description ==
 
-Notifies the store owner via email when a customer attempts to make a purchase with an expired discount code.
+Notifies the store owner via email when a customer attempts to make a purchase with an expired discount code.  After activating, verify that it's working by checking out and using an invalid or expired discount code.
 
 == Installation ==
 
