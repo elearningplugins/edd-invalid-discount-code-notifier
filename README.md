@@ -1,4 +1,5 @@
 === Easy Digital Downloads - Expired Discount Code Notifier ===
+
 Contributors: beeneeb
 Donate link: https://wisdomplugin.com
 Tags: edd, discounts
