@@ -1,13 +1,22 @@
 === Easy Digital Downloads - Expired Discount Code Notifier ===
 
 Contributors: beeneeb
+
 Donate link: https://wisdomplugin.com
+
 Tags: edd, discounts
+
 Requires at least: 4.0
+
+Requires PHP: 5.2.4
+
 Tested up to: 5.1
+
 Stable tag: 1.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+License: GPLv3 or later
+
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Notifies the store owner via email when a customer attempts to make a purchase with an expired discount code.
 
@@ -38,13 +47,13 @@ N/A
 
 = 1.1 =
 
-* Initial Version.n.
+Initial Version
 
 == Upgrade Notice ==
 
 = 1.1 =
 
-* Initial Version.
+Initial Version.
 
 == License ==
 
