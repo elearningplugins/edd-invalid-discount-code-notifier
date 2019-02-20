@@ -32,7 +32,7 @@ admin_email
 
 == Screenshots ==
 
-N/A
+https://imgur.com/AFRWrsc
 
 == Changelog ==
 
