@@ -52,9 +52,8 @@ GPL3 LICENSE SYNOPSIS
 
 https://gist.github.com/kn9ts/cbe95340d29fc1aaeaa5dd5c059d2e60
 
-**_TL;DR_*** Here's what the license entails:
+Here's what the license entails:
 
-```markdown
 1. Anyone can copy, modify and distribute this software.
 2. You have to include the license and copyright notice with each and every distribution.
 3. You can use this software privately.
@@ -64,7 +63,6 @@ https://gist.github.com/kn9ts/cbe95340d29fc1aaeaa5dd5c059d2e60
 7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
 8. This software is provided without warranty.
 9. The software author or license can not be held liable for any damages inflicted by the software.
-```
 
 More information on about the [LICENSE can be found here](http://choosealicense.com/licenses/gpl-3.0/)
 
