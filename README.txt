@@ -22,7 +22,7 @@ Notifies the store owner via email when a customer attempts to make a purchase w
 
 == Frequently Asked Questions ==
 
-What email address receives the notification?
+= What email address receives the notification? =
 
 admin_email
 
